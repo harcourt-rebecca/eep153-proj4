@@ -1,0 +1,61 @@
+Item name,energy kcal,protein g,vit a ug,vit d ug,vit e ug,vit c mg,vit b6 mg,vit b12 ug,ca mg,mg mg,fe mg,zn mg
+Rice (Paddy),358,6.5,0,0,0,0,0.1,0,8,36,0.6,1.1
+Rice (Husked),358,6.5,0,0,0,0,0.1,0,8,36,0.6,1.1
+"Maize (Green, Cob, immature)",59,1.8,7,0,0,3,0,0,1,18,0.3,0.3
+"Maize (Grain, dry, raw)",362,8.1,0,0,1,0,0.3,0,6,127,3.5,1.8
+Maize (Flour),362,8.1,0,0,1,0,0.3,0,6,127,3.5,1.8
+Millet and Sorghum (Grain),328,6.6,5,0,0,0,0.2,0,275,27,2.7,1.2
+Millet And Sorghum (Flour),328,6.6,5,0,0,0,0.2,0,275,27,2.7,1.2
+Bread,274,8,0,0,0,0,0,0,10,27,0.5,0.9
+"Buns, Cakes And Biscuits",320,4.7,34,0,1,0,0,0.2,38,9,0.4,0.4
+"Macaroni, Spaghetti",371,10.5,0,0,0,0,0,0,15,22,1.2,0.1
+Other cereal products,,,,,,,,,,,,
+Cassava Fresh,160,1.4,1,0,0.2,20.6,0.1,0,16,21,0.3,0.3
+Cassava dry/flour,314,2.6,14,0,0,72,0.7,0,46,24,1.9,0.7
+Sweet Potatoes,74,1.2,1056,0,4,18,0.2,0,20,14,0.4,0.2
+Yams/Cocoyams,97,2.1,0,0,5,12,0.2,0,8,26,0.8,0.5
+Irish Potatoes,93,2,0,0,6.7,18.6,0.7,0,5,25,0.4,0.3
+"Cooking Bananas, Plantains",,,,,,,,,,,,
+Other starches (edible),381,0.3,0,0,0,0,0,0,2,3,0.5,0.1
+Sugar,387,0,0,0,0,0,0,0,1,0,0.1,0
+Sweets,479,4.2,0,0,0.3,0,0,0,32,115,3.1,1.6
+"Honey, Syrups, Jams, Marmalade, Jellies, Canned Fruits",304,0.3,0,0,0,1,0,0,6,2,0.4,0.2
+"Peas, Beans, Lentils And Other Pulses",116,9,3,0,0,5,0.5,0,51,96,8.8,3.5
+Groundnuts In Shell/Shelled,567,25.8,0,0,9,0,0.3,0,92,168,4.6,3.3
+Coconuts (Mature/Immature),70,0.5,0,0,0,1,0,0,126,3,0.4,0.1
+Cashew (Almonds and other nuts),589,20,0,0,24,1,0.1,0,266,296,3.7,2.9
+Sunflower seed / Seeds and products from nuts/seeds (excl. cooking oil),588,26.4,7,0,2,0,0.2,0,131,347,7.8,10.3
+"Onions, Tomatoes, Carrots And Green Pepper, Other Viungo",40,1.3,0,0,0,7.4,0.1,0,23,10,0.2,0.2
+"Spinach, Cabbage And Other Green Vegetables",23,3,819,0,1,10,0.2,0,136,87,3.6,0.8
+"Amranth, leaves raw / Canned, dried and wild vegetables",23,8.5,146,0,0,44.5,0.2,0,96.9,55,2.3,0.6
+Ripe Bananas,89,1.1,3,0,0.1,8.7,0.4,0,5,27,0.3,0.2
+"Citrus Fruits (Oranges, Lemon, Tangerines, Etc.)",47,0.9,8,0,0,53,0.1,0,40,10,0.1,0.1
+"Mangoes, Avocadoes, And Other Fruits",65,0.5,38,0,1.1,27.7,0.1,0,10,9,0.1,0
+Sugarcane,26,0,0,0,0,0,0,0,6,2,0.1,0
+Goat Meat,269,24.9,0,0,0,0,0.3,1.9,4,23,1.7,4.1
+Beef Including Minced Sausage,323,24.9,0,0,0,0,0.3,1.9,4,23,1.7,4.1
+Pork including sausages and bacon,537,19.6,1,1,0,0,0.3,0.6,18,17,0.8,2.1
+Chicken And Other Poultry,167,24.5,27,0,0,0,0.2,0.2,9,14,1,1.3
+Wild birds and insects,,,,,,,,,,,,
+Cricket (Other domestic/wild meat products),7.5,9.6,1,1,0,2,0.3,1.6,90,62,2.5,8.4
+Eggs,278,19.2,810,8,2,0,0.4,8.1,96,26,5.9,2.1
+Fresh Fish And Seafood (Including Dagaa),112,21.4,43,12,1,0,0.3,1.1,48,86,0.9,0.4
+Dried/Salted/Canned Fish And Seafood (Incl. Dagaa),309,66.4,0,0,4,0,7.3,35,41,122,1.4,1.7
+Fish,98,18.1,0,0,0,17,0.5,0,7,21,0.3,0.3
+Fresh Milk,60,3.2,28,0,0.1,0,0,0.4,115,12,0,0
+"Milk Products (Like Cream, Cheese, Yoghurt Etc)",349,7.6,366,0,0.3,0,0,0.4,80,6,1.2,0.5
+Canned milk/milk powder,496,26.3,407,0,0,7,0.4,3,851,81,0.7,3
+Cooking Oil,862,0,0,0,1,0,0,0,0,0,0,0
+Butter refined - ghee,876,0.3,925,2,3,0,0,0,8,1,0.1,0
+Salt,0,0,0,0,0,0,0,0,45,2,0.1,0
+Other Spices,,,,,,,,,,,,
+Wheat flour (whole grain),399,13.7,0,0,0,0,0.3,0,15,22,1.2,0.7
+Maida (wheat),349,12.3,0,0,1,0,0.2,0,26,92,2.8,2
+Tea Dry,1,0,0,0,0,0,0,0,2,2,0,0
+Coffee and cocoa,200,10,0,0,0,0,0,0,300,400,10,0
+Other raw materials for drinks,,,,,,,,,,,,
+"Bottled/Canned Soft Drinks (Soda, Juice, Water)",54,0.2,168,0,0,15,0.1,0,4,4,0,0
+Instant coffee,200,10,0,0,0,0,0,0,300,400,10,0
+Bottled beer,41,0.3,0,0,0,0,0.1,0,5,6,0,0
+Local beer,41,0.3,0,0,0,0,0.1,0,5,6,0,0
+Vinegar (Wine and spirits),19,0,0,0,0,0.5,0,0,8,10,0.4,0.1
