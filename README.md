@@ -18,7 +18,7 @@ This Github repository contains the following Jupyter Notebooks:
 
 The following CSV files are also contained within the repository and are necessary for full functionality:
 
--   fct-full.csv: Full food conversion table for local Tanzanian foods
+-   fct-full-fct-full.csv: Full food conversion table for local Tanzanian foods
 
 -   hh_rda.csv: Minimum dietary requirements for different age groups within a household
 
