@@ -25,6 +25,7 @@ The following CSV files are also contained within the repository and are necessa
 -   final-prices-our-prices-1.csv: Aggregate price information for Tanzanian goods in 2014 TZS prices
 
 -   tanzanian_nps.ds: Formatted dataset containing information for 2008-2014 Tanzania LSMS results
+        - (This dataset is too large to upload onto GitHub, so please follow this link (http://datahub.berkeley.edu/user-redirect/interact?account=ligon&repo=HackingFood&branch=master&path=) to find the dataset located within the folder TanzanianNPS.)
 
 The following documentation will explain how to use each notebook to get the graphics provided in the team presentation, and offer brief explanations of the functions so that they may be used outside the context of this project.
 
