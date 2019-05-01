@@ -10,13 +10,11 @@ Project Presentation: <https://tinyurl.com/y4hgamzq>
 
 This Github repository contains the following Jupyter Notebooks:
 
--   Tanzanian Demands
+- Pt 1- Tanzanian Demands
+- Pt 2- Nutrition Systems
+- Pt 3- example costs
+- Pt 4- example costs 2
 
--   Nutrition Systems
-
--   Costs 1
-
--   Costs 2
 
 The following CSV files are also contained within the repository and are necessary for full functionality:
 
