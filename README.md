@@ -22,7 +22,7 @@ The following CSV files are also contained within the repository and are necessa
 
 -   hh_rda.csv: Minimum dietary requirements for different age groups within a household
 
--   our-prices.csv: Aggregate price information for Tanzanian goods in 2014 TZS prices
+-   final-prices-our-prices-1.csv: Aggregate price information for Tanzanian goods in 2014 TZS prices
 
 -   tanzanian_nps.ds: Formatted dataset containing information for 2008-2014 Tanzania LSMS results
 
